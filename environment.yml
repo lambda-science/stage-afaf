@@ -1,0 +1,20 @@
+name: stage-afaf
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - ipykernel
+  - ipywidgets
+  - numpy
+  - stardist
+  - cellpose
+  - csbdeep
+  - imageio
+  - scikit-image
+  - rich
+  - jupyter
+  - pandas
+  - ca-certificates
+  - certifi
+  - openssl
+prefix: /home/corentin/mambaforge/envs/stage-afaf
