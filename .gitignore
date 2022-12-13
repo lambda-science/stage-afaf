@@ -133,3 +133,5 @@ results/*
 *.png
 *.csv
 *.xlsx
+*.tiff
+**/.DS_Store
